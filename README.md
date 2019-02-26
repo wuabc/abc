@@ -13,4 +13,7 @@ http://www.ryjiaoyu.com/book/details/7513
 
 3.网页预加载 https://instant.page 产品介绍：https://free.com.tw/instant-page
 
+4.伯克利观点 关于Serverless   https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf
+
+
 
