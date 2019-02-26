@@ -11,3 +11,6 @@ http://www.ryjiaoyu.com/book/details/7513
 2.在线DOS游戏  https://dos.zczc.cz
 产品介绍：https://free.com.tw/chinese-dos-games/
 
+3.网页预加载 https://instant.page 产品介绍：https://free.com.tw/instant-page
+
+
