@@ -7,3 +7,8 @@ http://www.ryjiaoyu.com/book/details/7513
 参考资料：
 
 1、鸟哥私房菜 http://linux.vbird.org
+
+
+在线DOS游戏  https://dos.zczc.cz
+产品介绍：https://free.com.tw/chinese-dos-games/
+
