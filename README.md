@@ -17,4 +17,4 @@ http://www.ryjiaoyu.com/book/details/7513
 
 5.Instant logo search http://instantlogosearch.com/
 
-
+6.如何成为一名懒惰的系统管理员  https://www.xshell.net/linux/2054.html
